@@ -1,5 +1,5 @@
 # 概述
-`WeComPC` 是一款基于WeChatPc修改的 企业微信多开工具，WeChatPC原项目地址：https://github.com/cheungxiongwei/WeChatPC.git。
+`WeComPC` 是一款基于WeChatPc修改的 企业微信多开工具，WeChatPC原项目地址：https://github.com/cheungxiongwei/WeChatPC.git
 
 本文主要使用代码实现多开，简单修改可破除类似原理的网络游戏限制多开。
 ### 使用说明

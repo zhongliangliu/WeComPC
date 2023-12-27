@@ -1,16 +1,16 @@
 # 概述
-`WeChatPC` 是一款 微信多开工具。
+`WeComPC` 是一款基于WeChatPc修改的 企业微信多开工具，WeChatPC原项目地址：https://github.com/cheungxiongwei/WeChatPC.git。
 
 本文主要使用代码实现多开，简单修改可破除类似原理的网络游戏限制多开。
 ### 使用说明
-运行 `WeChatPC.exe` 即可。
+运行 `WeCom.exe` 即可。
 
 ### 主要特征
 * 支持无限多开。
 * 一键启动微信。
 
 ### 下载地址
-https://github.com/cheungxiongwei/WeChatPC/releases/download/1.0/WeChatPC.rar
+https://github.com/zhongliangliu/WeComPC/releases/download/v0.1/weComPC.exe
 
 ### 源代码编译
 `git clone https://github.com/cheungxiongwei/WeChatPC.git`

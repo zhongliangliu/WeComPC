@@ -34,7 +34,7 @@ https://github.com/zhongliangliu/WeComPC/releases/download/v0.1/weComPC.exe
 2. 使用 `ZwQuerySystemInformation` 函数枚举全局句柄列表（系统上所有的句柄列表），通过比较句柄拥有者进程 id，获取 `WXWork.exe` 目标句柄。
 3. 使用 `DuplicateHandle` 跨进程复制句柄，第一次复制仅查询比较 `类型` 、`名称`，第二次复制关闭找到的目标句柄。
 
-![](./images/Snipaste_2020-04-26_10-45-44.jpg)
+![](./WeComPC-master/images/Snipaste_2020-04-26_10-45-44.jpg)
 
 ### 声明
 本项目仅供技术研究，请勿用于任何商业用途，请勿用于非法用途，如有任何人凭此做何非法事情，均于作者无关，特此声明

@@ -13,7 +13,7 @@
 https://github.com/zhongliangliu/WeComPC/releases/download/v0.1/weComPC.exe
 
 ### 源代码编译
-`git clone https://github.com/cheungxiongwei/WeChatPC.git`
+`git clone https://github.com/zhongliangliu/WeComPC.git`
 
 打开 `WeChatPC` 目录。
 
